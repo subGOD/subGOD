@@ -16,8 +16,6 @@
 
 ## 🌐 <span style="vertical-align: middle;">**About Me**</span>
 
-<img align="right" src="https://img.icons8.com/fluency/48/000000/coding.png"/>
-
 Greetings, traveler of the digital frontier! I'm **subGOD**, a visionary web developer pushing the boundaries of tech. As the architect behind a **global, cloud-based multimedia empire**, I am laser-focused on creating scalable and revolutionary digital solutions. My journey began as an exploration into the internet's vast potential, and today, I’m committed to building a future where **code shapes possibilities** across the world.
 
 ---
