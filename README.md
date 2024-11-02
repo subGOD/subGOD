@@ -14,7 +14,7 @@
 
 ---
 
-## 🌐 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2bbc8a&width=435&lines=About+Me" alt="Typing SVG" />
+## 🌐 <span style="vertical-align: middle;">**About Me**</span>
 
 <img align="right" src="https://img.icons8.com/fluency/48/000000/coding.png"/>
 
@@ -22,7 +22,7 @@ Greetings, traveler of the digital frontier! I'm **subGOD**, a visionary web dev
 
 ---
 
-## 🛠️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2bbc8a&width=435&lines=Skills+%26+Expertise" alt="Typing SVG" />
+## 🛠️ <span style="vertical-align: middle;">**Skills & Expertise**</span>
 
 **Here’s a look into my advanced tech arsenal:**
 
@@ -40,7 +40,7 @@ With each project, I aim to merge cutting-edge technology with seamless, intuiti
 
 ---
 
-## 🚧 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2bbc8a&width=435&lines=Projects" alt="Typing SVG" />
+## 🚧 <span style="vertical-align: middle;">**Projects**</span>
 
 ### **godEye (WIP)**
 
@@ -54,7 +54,7 @@ With each project, I aim to merge cutting-edge technology with seamless, intuiti
 
 ---
 
-## 📊 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2bbc8a&width=435&lines=GitHub+Stats" alt="Typing SVG" />
+## 📊 <span style="vertical-align: middle;">**GitHub Stats**</span>
 
 <div align="center">
 
@@ -65,7 +65,7 @@ With each project, I aim to merge cutting-edge technology with seamless, intuiti
 
 ---
 
-## ⚠️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2bbc8a&width=435&lines=Disclaimer" alt="Typing SVG" />
+## ⚠️ <span style="vertical-align: middle;">**Disclaimer**</span>
 
 *This profile is for entertainment and inspiration. Engage responsibly.*
 
