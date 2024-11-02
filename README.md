@@ -29,6 +29,7 @@ I'm constantly tinkering and building new things. Here are some of my current pr
     * **Status:** Actively in development, contributions and feedback welcome!
     * **Link:** [godEye](https://github.com/subGOD/godEye)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subgod&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 **Disclaimer:**
 *This profile is for entertainment purposes only. Please do not attempt any illegal activities.*
