@@ -8,7 +8,7 @@
 **🚀 Building the Future One Line of Code at a Time**
 
 [![GitHub followers](https://img.shields.io/github/followers/subGOD?style=social)](https://github.com/subGOD)
-[![Twitter Follow](https://img.shields.io/twitter/follow/subGOD?style=social)](https://twitter.com/subGOD)
+[![Twitter Follow](https://img.shields.io/twitter/follow/subGODx?style=social)](https://twitter.com/subGODx)
 
 </div>
 
