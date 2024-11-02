@@ -43,6 +43,7 @@ I’m constantly innovating, building solutions to bring the future closer. Here
 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subgod&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=subgod&theme=default&hide_border=true)
 
 ---
 
