@@ -2,7 +2,7 @@
 
 **Building the Future One Line of Code at a Time**
 
-[Image of a futuristic cityscape or a hacker working]
+![Cyberpunk Cityscape](cyberpunkheader.png)
 
 **Skills & Expertise:**
 
@@ -13,9 +13,7 @@
 
 **Recent Projects:**
 
-* **Godiye (WIP):** A modern and user-friendly web interface for managing PiVPN servers. [Link to Repository]
-* **Violet Void Theme (WIP):** A dark and elegant theme that unifies your digital workspace. [Link to Repository]
-* **[Project Name]:** (Brief description of your project here) [Link to Repository]
+* **godEye (WIP):** A modern and user-friendly web interface for managing PiVPN servers. [Link to Repository]
 
 **Let's Connect:**
 
