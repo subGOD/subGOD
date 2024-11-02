@@ -14,7 +14,7 @@
 
 ---
 
-## 🌐 **About Me**
+## 🌐 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2bbc8a&width=435&lines=About+Me" alt="Typing SVG" />
 
 <img align="right" src="https://img.icons8.com/fluency/48/000000/coding.png"/>
 
@@ -22,7 +22,7 @@ Greetings, traveler of the digital frontier! I'm **subGOD**, a visionary web dev
 
 ---
 
-## 🛠️ **Skills & Expertise**
+## 🛠️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2bbc8a&width=435&lines=Skills+%26+Expertise" alt="Typing SVG" />
 
 **Here’s a look into my advanced tech arsenal:**
 
@@ -40,7 +40,8 @@ With each project, I aim to merge cutting-edge technology with seamless, intuiti
 
 ---
 
-## 🚧 **Projects**
+## 🚧 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2bbc8a&width=435&lines=Projects" alt="Typing SVG" />
+
 ### **godEye (WIP)**
 
 > A next-gen web interface for managing PiVPN servers, designed for simplicity and security.
@@ -53,7 +54,7 @@ With each project, I aim to merge cutting-edge technology with seamless, intuiti
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2bbc8a&width=435&lines=GitHub+Stats" alt="Typing SVG" />
 
 <div align="center">
 
@@ -64,7 +65,7 @@ With each project, I aim to merge cutting-edge technology with seamless, intuiti
 
 ---
 
-## ⚠️ **Disclaimer**
+## ⚠️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2bbc8a&width=435&lines=Disclaimer" alt="Typing SVG" />
 
 *This profile is for entertainment and inspiration. Engage responsibly.*
 
@@ -77,7 +78,3 @@ With each project, I aim to merge cutting-edge technology with seamless, intuiti
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=N7FA5MUMC2W7L)
 
 </div>
-ext-gen web interface for managing PiVPN servers, designed for simplicity and security.
-
-**Tech Stack:** Vite, Tailwind CSS, Node.js  
-**Key Features:** Intuitive dashboard, Client management, Dynamic DNS configuration, Advanced security protocols
