@@ -27,7 +27,7 @@ I'm constantly tinkering and building new things. Here are some of my current pr
     * **Tech Stack:** Vite, Tailwind CSS, Node.js
     * **Features:** Intuitive dashboard, Client management, Dynamic DNS configuration, Robust security measures.
     * **Status:** Actively in development, contributions and feedback welcome!
-    * **Link:** [Link to your godEye repository](https://github.com/subGOD/godEye)
+    * **Link:** [godEye](https://github.com/subGOD/godEye)
 
 
 **Disclaimer:**
