@@ -41,12 +41,43 @@ With each project, I aim to merge cutting-edge technology with seamless, intuiti
 ---
 
 ## 🚧 **Projects**
-
-I’m constantly innovating, building solutions to bring the future closer. Here’s one of my highlighted projects:
-
 ### **godEye (WIP)**
 
 > A next-gen web interface for managing PiVPN servers, designed for simplicity and security.
+
+**Tech Stack:** Vite, Tailwind CSS, Node.js  
+**Key Features:** Intuitive dashboard, Client management, Dynamic DNS configuration, Advanced security protocols  
+**Status:** In active development – contributions and feedback are not only welcome but encouraged!  
+
+🔗 **Link:** [godEye](https://github.com/subGOD/godEye)
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subgod&theme=default&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subgod&layout=compact&theme=default)
+
+</div>
+
+---
+
+## ⚠️ **Disclaimer**
+
+*This profile is for entertainment and inspiration. Engage responsibly.*
+
+---
+
+<div align="center">
+
+💡 **Join me in forging the future. Together, we can create something truly revolutionary.**
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=N7FA5MUMC2W7L)
+
+</div>
+ext-gen web interface for managing PiVPN servers, designed for simplicity and security.
 
 **Tech Stack:** Vite, Tailwind CSS, Node.js  
 **Key Features:** Intuitive dashboard, Client management, Dynamic DNS configuration, Advanced security protocols
