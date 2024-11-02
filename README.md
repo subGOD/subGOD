@@ -43,7 +43,6 @@ I’m constantly innovating, building solutions to bring the future closer. Here
 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subgod&theme=default&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=subgod&theme=default&hide_border=true)
 
 ---
 
@@ -53,3 +52,7 @@ I’m constantly innovating, building solutions to bring the future closer. Here
 ---
 
 💡 **Join me in forging the future. Together, we can create something truly revolutionary.**
+
+---
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=N7FA5MUMC2W7L)
