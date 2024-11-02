@@ -1,6 +1,6 @@
 # subGOD: Master of the Web 
 
-![Cyberpunk Cityscape](cyberpunkheader.png) {height=200px}  
+![Cyberpunk Cityscape](cyberpunkheader.png)  
 
 **Building the Future One Line of Code at a Time**
 
@@ -27,18 +27,8 @@ I'm constantly tinkering and building new things. Here are some of my current pr
     * **Tech Stack:** Vite, Tailwind CSS, Node.js
     * **Features:** Intuitive dashboard, Client management, Dynamic DNS configuration, Robust security measures.
     * **Status:** Actively in development, contributions and feedback welcome!
-    * **Link:** [Link to Repository]
+    * **Link:** [Link to your godEye repository](https://github.com/subGOD/godEye)
 
-* **[Project Name 2]:** (Brief description of your second project here) (Link to Repository)
-* **[Project Name 3]:** (Brief description of your third project here) (Link to Repository)
-
-**Let's Connect**
-
-I'm always interested in collaborating with other passionate developers and makers. Feel free to reach out!
-
-* **Twitter:** [@subGOD]
-* **LinkedIn:** [LinkedIn Profile]
-* **Email:** subGOD@cyberrealm.com
 
 **Disclaimer:**
 *This profile is for entertainment purposes only. Please do not attempt any illegal activities.*
